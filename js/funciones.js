@@ -10,7 +10,7 @@ let elegirMenu =()=>{
     3.-area poligono
     4.-perimetro poligono
     0.-salir`)
-
+ //plantilla
     while(pideOpcion){
         switch (opciones) {
             case "1":
